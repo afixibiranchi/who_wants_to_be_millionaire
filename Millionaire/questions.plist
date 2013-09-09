@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>seq</key>
+		<string>1</string>
+		<key>ans</key>
+		<string>op3</string>
+		<key>op1</key>
+		<string>Johor</string>
+		<key>op2</key>
+		<string>Melaka</string>
+		<key>op3</key>
+		<string>kuala Lumpur</string>
+		<key>op4</key>
+		<string>ipoh</string>
+		<key>ques</key>
+		<string>What is the capital of Malaysia ?</string>
+	</dict>
+	<dict>
+		<key>seq</key>
+		<string>2</string>
+		<key>ans</key>
+		<string>op3</string>
+		<key>op1</key>
+		<string>Strait of Malacca</string>
+		<key>op2</key>
+		<string>Celebes Sea</string>
+		<key>op3</key>
+		<string>South China Sea</string>
+		<key>op4</key>
+		<string>Gulf of Thailand</string>
+		<key>ques</key>
+		<string>The two separate geographic regions of Malaysia are separated by which seaway ?</string>
+	</dict>
+	<dict>
+		<key>seq</key>
+		<string>3</string>
+		<key>ans</key>
+		<string>op1</string>
+		<key>op1</key>
+		<string>+60</string>
+		<key>op2</key>
+		<string>+61</string>
+		<key>op3</key>
+		<string>+63</string>
+		<key>op4</key>
+		<string>+64</string>
+		<key>ques</key>
+		<string>What is the calling code of Malaysia ?</string>
+	</dict>
+	<dict>
+		<key>seq</key>
+		<string>4</string>
+		<key>ans</key>
+		<string>op4</string>
+		<key>op1</key>
+		<string>18</string>
+		<key>op2</key>
+		<string>19</string>
+		<key>op3</key>
+		<string>20</string>
+		<key>op4</key>
+		<string>21</string>
+		<key>ques</key>
+		<string>What is the minimum age of voting in Malaysia ?</string>
+	</dict>
+	<dict>
+		<key>seq</key>
+		<string>5</string>
+		<key>ans</key>
+		<string>op2</string>
+		<key>op1</key>
+		<string>3 Federal Territories</string>
+		<key>op2</key>
+		<string>13 States 3 Federal Territories</string>
+		<key>op3</key>
+		<string>13 States</string>
+		<key>op4</key>
+		<string>2 States</string>
+		<key>ques</key>
+		<string>Malaysia is a federation of ?</string>
+	</dict>
+	<dict>
+	  <key>seq</key>
+	  <string>6</string>
+	  <key>ans</key>
+	  <string>op1</string>
+	  <key>op1</key>
+	  <string>1963</string>
+	  <key>op2</key>
+	  <string>1968</string>
+	  <key>op3</key>
+	  <string>1976</string>
+	  <key>op4</key>
+	  <string>1984</string>
+	  <key>ques</key>
+	  <string>When was Malaysia formed ?</string>
+	</dict>
+	<dict>
+	  <key>seq</key>
+	  <string>7</string>
+	  <key>ans</key>
+	  <string>op2</string>
+	  <key>op1</key>
+	  <string>Mahathir Mohammed</string>
+	  <key>op2</key>
+	  <string>Tunku Abdul Rahman</string>
+	  <key>op3</key>
+	  <string>Abdullah Ahmad Badawi</string>
+	  <key>op4</key>
+	  <string>Mizan Zainal Abidin</string>
+	  <key>ques</key>
+	  <string>Who is the first Prime Minister of Malaysia ?</string>
+	</dict>
+</array>
+</plist>
